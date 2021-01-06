@@ -1,0 +1,24 @@
+{
+    "name": "aureo.ramos/pci",
+    "require": {
+     
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\": "app/model/",
+            "Controller\\": "app/controller/",
+            "Lib\\": "app/lib/"
+            
+            
+
+        }
+
+    },
+    "require-dev": {
+       
+    },
+    "scripts": {
+       
+       
+    }
+}
